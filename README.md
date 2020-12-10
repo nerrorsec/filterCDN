@@ -1,5 +1,5 @@
 # filterCDN
-Filter domains/IPs/IP-range, if it belongs to any CDN or not
+Check if domains/IPs/IP-range belongs to any CDN or not
 
 ## Usage:
 ```
